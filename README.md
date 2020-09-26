@@ -5,10 +5,10 @@ List Anggota<br />
 -Kristian Davidson Runtu 535180135<br />
 
 <h1> 5W+1H Website “Ilmu Kopi“</h1>
-- What?
-- When?
-- Where? 
-- Who?
-- Why?
-- How?
+- What?<br />
+- When?<br />
+- Where?<br />
+- Who?<br />
+- Why?<br />
+- How?<br />
 - Kesimpulan:
