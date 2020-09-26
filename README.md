@@ -12,3 +12,8 @@ List Anggota<br />
 - Why?<br />
 - How?<br />
 - Kesimpulan:
+
+## Road Map
+
+# September 26, 2020 
+### -Menambah informasi dan tujuan dari pembuatan project ilmu kopi pada read.me
