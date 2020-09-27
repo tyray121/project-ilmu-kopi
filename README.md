@@ -3,6 +3,7 @@ List Anggota<br />
 -William Wijaksana 535180094<br />
 -Taddo Tamiko 535180077<br />
 -Kristian Davidson Runtu 535180135<br />
+-Ricky Hansen Kurnia 535180069 </br>
 
 <h1> 5W+1H Website “Ilmu Kopi“</h1>
 <ul>
