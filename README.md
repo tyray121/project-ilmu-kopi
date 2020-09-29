@@ -11,12 +11,19 @@ List Anggota
 <h1> 5W+1H Website “Ilmu Kopi“</h1>
 <ul>
 <li>What?</li>
+  <p1>-</p1>
 <li>When?</li>
+  <p1>-</p1>
 <li>Where?</li>
+  <p1>-</p1>
 <li>Who?</li>
+  <p1>-</p1>
 <li>Why?</li>
+  <p1>-</p1>
 <li>How?</li>
-<li>Kesimpulan:</li>
+  <p1>-</p1>
+<li>Kesimpulan</li>
+  <p1>-</p1>
 </ul>
 
 # Road Map
