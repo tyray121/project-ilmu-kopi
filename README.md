@@ -1,6 +1,6 @@
 # Project Website ilmu kopi<br />
 <pre>
-List Anggota
+List Anggota  :
 - William Wijaksana       (535180094)
 - Taddo Tamiko            (535180077)
 - Kristian Davidson Runtu (535180135)
@@ -10,8 +10,8 @@ List Anggota
 
 <h1> 5W+1H Website “Ilmu Kopi“</h1>
 <ul>
-<li>What?</li>
-  <p1>-Website Ilmu kopi yang akan mengedukasi pengunjung website dan menyeduh kopi dengan berbagai metode.</p1>
+<li>What : Jenis Website apa yang anda buat?</li>
+  <p1>-Jenis Website yang akan kami buat merupakan website bidang pengetahuan tentang ilmu kopi, dimana kami akan menjelaskan tentang berbagai macam cara dalam menyeduh kopi agar dapat semakin diminati oleh banyak orang. Website yang akan kami buat juga akan dibuat menarik sehingga banyak orang yang akan tertarik</p1>
 <li>When?</li>
   <p1>-Project ini akan diselesaikan paling lambat bulan Desember 2020.</p1>
 <li>Where?</li>
