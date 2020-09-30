@@ -349,6 +349,7 @@ body {
 .myH2 {
     text-align:center;
     font-size: 4rem;
+    color: honeydew;
 }
 .myP {
     text-align: justify;
@@ -360,4 +361,38 @@ body {
     .myP {
         padding:2%;
     }
+}
+
+.bgbwh {
+    background-image: url(https://st3.depositphotos.com/1329809/14537/i/1600/depositphotos_145372225-stock-photo-coffee-background-space-text.jpg);
+}
+
+body{
+    background: #eee;
+    
+}
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #0062cc;
+  border-bottom:2px solid #0062cc;
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#4183D7;
 }
