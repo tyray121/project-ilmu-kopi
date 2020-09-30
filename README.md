@@ -32,3 +32,7 @@ List Anggota  :
 ## September 29, 2020 v0.2
 ### Menyelesaikan 5w+1h
 
+## September 30, 2020 v0.3
+### Menyelesaikan ISO9126
+### Memulai homepage
+### Menambahkan Template homepage
