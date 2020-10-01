@@ -372,7 +372,7 @@ body {
 .myH2 {
     text-align:center;
     font-size: 4rem;
-    color: honeydew;
+    color:brown;
 }
 .myP {
     text-align: justify;
@@ -406,23 +406,25 @@ a{
 .box{
     padding:5px;
 }
-.title{
-    padding-left:5px;
-}
 .box-part{
-    background-color: rgba(0, 0, 0, 0.5);;
+    background-color: rgba(0, 0, 0, 0.25);;
     border-radius:0;
-    padding:60px 5px;
-    margin:30px 0px;
+    padding:30px 5px;
+    margin:30px 5px;
     font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
 
 }
 .text{
     margin:20px 0px;
-    color:rgb(0, 255, 179)
+    color:maroon
     
 }
 
 .fa{
      color:#4183D7;
+}
+
+.isicard{
+    font-family:Arial, Helvetica, sans-serif;
 }
