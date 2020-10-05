@@ -364,8 +364,23 @@ body {
     background-color: #111;
 }
 
+.spasigambar{
+    width: 487px;
+    height: 325px;
+    margin-right: 20px;
+}
 
+.kopidunia{
+    width: 1150px;
+    height: 350px;
+    background-repeat: no-repeat;
+}
 
+.textgambar{
+    padding: 5px;
+    color: darkred;
+    font-size: 10pt;
+}
 
 
 
@@ -374,6 +389,7 @@ body {
     font-size: 4rem;
     color:brown;
 }
+
 .myP {
     text-align: justify;
     padding-left:15%;
@@ -427,4 +443,5 @@ a{
 
 .isicard{
     font-family:Arial, Helvetica, sans-serif;
+    color : maroon;
 }
